@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gurleen
+- 👀 I’m interested in Web3
+- 🌱 I’m currently learning Solidity language and Blockchain concepts
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am 16 pursuing humanities and learning Blockchain and creating Nft's
